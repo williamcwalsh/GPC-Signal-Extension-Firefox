@@ -3,17 +3,20 @@ The GPC Signal Sender is a Firefox extension designed to help developers, tester
 
 **Features**
 Send GPC Signals: Easily send the Global Privacy Control signal from your browser to websites.
+
 Customizable Settings: Configure the extension to send signals automatically or on-demand.
+
 Lightweight & Fast: Small extension that doesn't slow down browser performance.
+
 Privacy-focused: No tracking of your activity—only sends signals when instructed.
-Installation
-Open Firefox and navigate to the Firefox Add-ons page.
-Search for GPC Signal Sender.
-Click Add to Firefox.
-Confirm the installation and follow the on-screen instructions.
-Usage
-Sending GPC Signals
-Once the extension is installed, you can send GPC signals in two ways:
+
+**Installation**
+1. Open Firefox and navigate to the Firefox Add-ons page.
+2. Search for GPC Signal Sender.
+3. Click Add to Firefox.
+4. Confirm the installation and follow the on-screen instructions.
+5. Usage
+6. Sending GPC Signals: Once the extension is installed, you can send GPC signals in two ways:
 
 **Manual Send:**
 Click the extension icon in the browser toolbar.
